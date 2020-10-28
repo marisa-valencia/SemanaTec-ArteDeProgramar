@@ -1,0 +1,2 @@
+# SemanaTec-ArteDeProgramar
+Semana12
